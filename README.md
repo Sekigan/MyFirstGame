@@ -1,2 +1,2 @@
 # MyFirstGame
-Mi primer juego creado en Unity
+Mi primer juego creado unity solo scripts 
